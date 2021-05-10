@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
+theme: custom
 day_night: true
-font: 'IBM Plex Sans'
+font: custom
 font_size: L
 
 # SEO
